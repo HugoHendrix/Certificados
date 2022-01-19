@@ -34,6 +34,9 @@
  <li>   Gestão de Desempenho e suas Tendências - Qulture Rocks       </li>
  <li>  Certificado de HTML5 e CSS3 - Módulo 1 - Curso em Video        </li>
  <li>   Certificado Curso-HTML5 e CSS3 - Módulo 2 - Curso em Video       </li>
+ <li>  Kickoff - Project Manager
+        </li>
+ <li> Intensivo de Design - Collab DESIGN            </li>
 
  
  
